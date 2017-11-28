@@ -1,5 +1,7 @@
 ## feathers-authentication-management
 
+temporary build for feathers 3 compatibility 
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-authentication-management.svg)](https://greenkeeper.io/)
 
 [![Build Status](https://travis-ci.org/feathersjs/feathers-authentication-management.png?branch=master)](https://travis-ci.org/feathersjs/feathers-authentication-management)
