@@ -4,6 +4,6 @@
 .istanbul.yml
 .babelrc
 .idea/
-src/
+# src/
 test/
 !lib/
